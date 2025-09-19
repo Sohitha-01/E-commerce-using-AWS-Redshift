@@ -12,7 +12,7 @@ charts.
 
 ---
 ## 📂 Project Structure
---
+
 ```
 AWS-Redshift-Project/
 ├─ Data/                           # Raw datasets stored in S3
@@ -33,7 +33,7 @@ AWS-Redshift-Project/
 ---
 
 ## 🎯 Project Goals
---
+
 - Build a Redshift Data Warehouse for an e-commerce dataset.
 - Automate loading from Amazon S3 into staging tables.
 - Transform staging into clean star-schema (facts & dimensions).
@@ -52,7 +52,7 @@ order_items, web_events).
 ---
 
 ## ⚡ Quick Start
---
+
 1. Upload raw data to S3.
 2. Set up an Amazon Redshift Serverless workgroup.
 3. Associate IAM role with S3 read permissions.
@@ -109,7 +109,7 @@ Default privileges ensure future tables are queryable by analysts.
 ---
 
 ## 📌 Results
---
+
 - ✅ Data successfully staged from S3 into Redshift.
 - ✅ Star schema (facts & dimensions) created.
 - ✅ Materialized views accelerated reporting.
@@ -118,12 +118,12 @@ Default privileges ensure future tables are queryable by analysts.
 ---
 
 ## 📊 ERD & Pipeline
---
+
 See `Images/ERD.png` and `Images/Pipeline.png` for detailed
 architecture.
 
 ---
 
 ## 📜 License
---
+
 This project is open-source under the MIT License.
