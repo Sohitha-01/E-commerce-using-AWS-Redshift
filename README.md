@@ -1,4 +1,4 @@
-# AWS Redshift E-commerce Data Warehouse Project
+# 🛒 AWS Redshift E-commerce Data Warehouse Project
 
 ---
 
