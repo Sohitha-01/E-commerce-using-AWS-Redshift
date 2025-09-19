@@ -66,7 +66,7 @@ order_items, web_events).
 ---
 
 ## 🛠️ Methodology
---
+
 **1. Create Schemas & Staging Tables**
 ```
 Schemas `stg` (staging) and `dw` (data warehouse) were created. Raw data
@@ -102,7 +102,7 @@ Charts were built using Redshift Query Editor v2 visualization tools.
 ---
 
 ## 🔐 Governance
---
+
 A read-only BI role can be granted SELECT privileges on the `dw` schema.
 Default privileges ensure future tables are queryable by analysts.
 
