@@ -43,7 +43,7 @@ AWS-Redshift-Project/
 ---
 
 ## 📊 Data
---
+
 - Source: Synthetic e-commerce dataset (customers, products, orders,
 order_items, web_events).
 - Stored in: Amazon S3 bucket (`s3://kommi-redshift-demo-12345/`).
