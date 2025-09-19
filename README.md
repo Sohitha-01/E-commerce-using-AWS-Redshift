@@ -1,19 +1,6 @@
 # AWS Redshift E-commerce Data Warehouse Project
 
 ---
-## 🧭 Index
-- [Project Overview](#project-overview)
-- [Project Structure](#project-structure)
-- [Project Golas](#project-golas)
-- [Data](#data)
-- [Quick Start](#quick-start)
-- [Methodology](#methodology)
-- [Governance](#governance)
-- [Results](#results)
-- [ERD & Pipeline](#erd--pipeline)
-- [License](#license)
-
----
 
 ## 📘 Project Overview
 
